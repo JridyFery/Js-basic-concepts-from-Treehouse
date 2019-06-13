@@ -1,2 +1,2 @@
-alert(hello there");
-document.rite("No it works!");
+alert("hello there");
+document.write("No it works!");
